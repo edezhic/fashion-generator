@@ -1,5 +1,4 @@
 # Fashion Generator
-Live version of this repo - [Fashion GAN Online](http://cognitivechaos.com/playground/fashion-gan/)
 
 GAN model trained in Tensorflow and then ported to browsers using GPU-accelarated framework [deeplearn.js](https://github.com/PAIR-code/deeplearnjs)
 
