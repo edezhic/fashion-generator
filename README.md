@@ -1,6 +1,6 @@
 # Fashion Generator
 
-GAN model trained in Tensorflow and then ported to browsers using GPU-accelarated framework [deeplearn.js](https://github.com/PAIR-code/deeplearnjs)
+GAN model trained in Tensorflow and then ported to browsers using GPU-accelarated framework [deeplearn.js](https://github.com/PAIR-code/deeplearnjs) which is now the core of tensorflow.js
 
 You can repeat the whole experiment in 3 steps:
 - Run train.&#8203;py to get ./weights folder
